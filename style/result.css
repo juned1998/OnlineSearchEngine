@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #fff;
+}
+body h3{
+    text-align: center;
+    font-family: sans-serif monospace ;
+    color: darkblue;
+    font-weight: 500;
+}
+
+#result-box{
+    background-color: white;
+    box-shadow: -5px 2px 3px #ddd , 5px 2px 3px #ddd;
+}
+
+#brand{
+    width: 300px;
+    height: 60x;
+    margin-bottom: -10px;
+}
+header form{
+    text-align: left;
+    margin-left: 20px;
+}
+
+form ul li{
+    display: inline-block;
+}
+/*proto*/
+nav{
+	width: 100%;
+    background-color: #fafafa;
+    text-align: left;
+    box-shadow:  1px 2px 3px #ddd;
+    position: sticky;
+    top: 0;
+
+}
+
+
+
+nav li {
+	text-align: right;
+    display: inline-block;
+    margin:  20px;
+}
+
+nav li a {
+     color: rgb(0, 53, 105);
+    margin: 20px;
+    padding: 19px;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+
+
+
+
+nav li a:hover{
+    text-decoration: underline;
+}
+
+/*proto*/
+input[type="text"]{
+    width:450px;
+    padding: 7px;
+    display: block;
+    margin:25px 0 18px;
+    background-color: #fafafa;
+    border:solid 1px #efefef;
+    font-size: 16px;
+    font-family: helvetica , sans-serif;
+}
+input[type="text"]:hover{
+    border-color: #aaa;
+}
+input[type="submit"] {
+   color: rgba(255,255,255,0);
+    width: 50px;
+    height: 35px;
+    background: #3897f0  url(../img/search-icon.png) no-repeat center;
+    background-size: contain;
+    border: solid 1px #3897f0;
+    margin-left: -40px;
+    margin-top: 0;
+}
+input[type="submit"]:hover {
+    cursor: pointer;
+}
+input[type="submit"]:active {
+    position: relative;
+    top: 3px;
+}
+
+#result-box{
+    font-family: sans-serif;
+    background-color: #fafafa;
+    width: 780px;
+    margin: 10px auto;
+    font-size: 13px;
+    padding: 10px;
+}
+
+.output{
+    font-family: sans-serif;
+    font-size:14px;
+    background-color: none;
+    margin:30px;
+    padding-bottom: 15px;
+    padding: 10px;
+/*    box-sizing: border-box;*/
+}
+.output h1{
+  font-size: 19px;
+margin: 2.5px;     
+}
+.output p{
+margin: 2.5px;     
+}
+.output:hover{
+    border: solid 1px #ddd;
+    box-shadow: 3px 5px 3px #ddd;
+   
+}
+.output  a{
+    margin: 2px;   
+    color:green;
+    text-decoration: none;
+        vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+    color: #084999;
+}
+.output  a:hover{
+    text-decoration: underline;
+}
+.output  a:visited{
+    text-decoration: underline;
+}
+
+.output small a{
+    color: green;
+}
+
+.error{
+    padding: 20px;
+   font-size: 19px;
+    color: red;
+}
+
+.visited{
+    text-decoration: underline;
+}
+
+.no.ofres{
+    font-size: 19px;
+    color: #999;
+    font-weight: 700;
+    text-indent: inherit;
+}

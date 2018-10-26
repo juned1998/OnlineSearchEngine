@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="simple.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="390.93579"
+     inkscape:cy="485.25469"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.67517662px;line-height:0;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#262626;fill-opacity:0.94117647;stroke:#262626;stroke-width:0.58580303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       x="29.767067"
+       y="93.364601"
+       id="text817"
+       inkscape:export-xdpi="150.004"
+       inkscape:export-ydpi="150.004"
+       transform="scale(0.99438945,1.0056422)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="29.767067"
+         y="93.364601"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:Aharoni;-inkscape-font-specification:Aharoni;fill:#262626;fill-opacity:0.94117647;stroke:#262626;stroke-width:0.58580303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#3897f0;fill-opacity:0.94117647;stroke:none;stroke-width:0.58580303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+           id="tspan814">Simple</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke:#262626;stroke-width:0.58580303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+           id="tspan842">Search</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52772045px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:SimSun;letter-spacing:0px;word-spacing:0px;fill:#262626;fill-opacity:0.94117647;stroke:none;stroke-width:0.213193"
+       x="6.5178609"
+       y="103.77077"
+       id="text846"
+       inkscape:export-xdpi="150.004"
+       inkscape:export-ydpi="150.004"><tspan
+         sodipodi:role="line"
+         id="tspan844"
+         x="6.5178609"
+         y="103.77077"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SimSun;-inkscape-font-specification:SimSun;fill:#262626;fill-opacity:0.94117647;stroke-width:0.213193">A search-engine made  using just  mySQL  &amp; php .</tspan></text>
+  </g>
+</svg>

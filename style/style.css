@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Aerial,sans-serif;
+    font-size:13px;
+    background-color: #fff;
+    border-color: #e6e6e6;
+}
+
+nav{
+    background-color: #fafafa;
+    text-align: right;
+    box-shadow:  1px 2px #ddd;
+}
+nav li {
+    display: inline-block;
+    margin:  20px;
+}
+
+nav li a {
+    color: rgb(0, 53, 105);
+    margin: 20px;
+    padding: 19px;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+
+
+nav li a:hover{
+    text-decoration:underline;
+}
+
+
+
+
+
+img#logo{
+ width: 500px;
+}
+
+.container{
+    text-align: center;
+    width: 580px;
+    margin: 140px auto 0 ;
+}
+
+form ul li{
+    display: inline-block;
+}
+input[type="text"]{
+    width:450px;
+    padding: 7px;
+    display: block;
+    margin:25px 0 18px;
+    background-color: #fafafa;
+    border:solid 1px #efefef;
+    font-size: 16px;
+    font-family: helvetica , sans-serif;
+}
+
+
+
+input[type="text"]:hover{
+    border-color: #aaa;
+    box-shadow: -2px 1px 5px gray;
+}
+input[type="submit"]{
+    width: 50px;
+    height: 35px;
+    color:rgba(255,255,255, 0);
+    background:#3897f0 url(../img/search-icon.png)  no-repeat center;
+    background-size: contain;
+    border: solid 1px #3897f0;
+}
+input[type="submit"]:hover {
+    cursor: pointer;
+}
+
+
+input[type="submit"]:active {
+    position: relative;
+    top: 3px;
+}
+
+#suggest{
+    background-color: red;
+}
+footer{
+    background: #eee;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+footer nav{
+    padding: 20px;
+}
+
+
+footer nav ul li{
+    display: inline;
+    font-size: 19px;
+}
+footer nav ul{
+    float: left;
+}
+
+footer nav ul.right-links{
+    float:right;
+    text-align: right
+}
+footer nav ul.left-links{
+    float:left;
+    text-align: right;
+}
+footer nav ul.left-links a{
+   margin-left: 0;
+    padding-left: 0;
+}
+
+.clearfix:after{
+    display: table;
+    content: "";
+    clear: both;
+    
+}
