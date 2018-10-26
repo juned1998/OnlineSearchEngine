@@ -85,7 +85,7 @@
                 }             
             }
             if(mysqli_num_rows($query) < 0 ||mysqli_num_rows($query) < 10){
-                        $apiKey = "AIzaSyDdH2szPG1N41W0HL5hTWA4YwC4DffnH1w";
+                        $apiKey = "PASTE YOUR GOOGLE CSE API KEY HERE";
                         $items = array();
                         $i = 0;
 
@@ -95,7 +95,7 @@
 
                               $request = "https://www.googleapis.com/customsearch/v1?" .
                                 "q=" . urlencode( "$keyword" ) . 
-                                "&cx=006640053195355193739:mcbapyj749u" .
+                                "&cx=PASTE YOUR CX CODE HERE" .
                                 "&key=" . $apiKey;
 
 
